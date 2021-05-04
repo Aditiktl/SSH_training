@@ -1,1 +1,1 @@
-# SSH_training
+# Shell_training
